@@ -1,14 +1,12 @@
-"{" 
-"  \"name\": \"smart-contract-management-system\"," 
-"  \"version\": \"1.0.0\"," 
-"  \"description\": \"Программная система для управления смарт-контрактами цифровых активов\"," 
-"  \"main\": \"index.js\"," 
-"  \"scripts\": {" 
-"    \"start\": \"node index.js\"," 
-"    \"dev\": \"nodemon index.js\"," 
-"    \"test\": \"jest\"" 
-"  }," 
-"  \"keywords\": [\"blockchain\", \"smart-contracts\", \"ethereum\", \"solidity\"]," 
-"  \"author\": \"Lukyanenko A.\"," 
-"  \"license\": \"MIT\"" 
-"}" 
+{ 
+  "name": "smart-contract-management-system", 
+  "version": "1.0.0", 
+  "description": "Программная система для управления смарт-контрактами цифровых активов", 
+  "main": "index.js", 
+  "scripts": { 
+    "start": "node index.js", 
+    "dev": "nodemon index.js" 
+  }, 
+  "author": "Lukyanenko A.", 
+  "license": "MIT" 
+} 

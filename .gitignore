@@ -1,8 +1,4 @@
-"node_modules/" 
-".env" 
-"dist/" 
-"build/" 
-".DS_Store" 
-"*.log" 
-"coverage/" 
-".nyc_output/" 
+node_modules/ 
+.env 
+dist/ 
+build/ 
