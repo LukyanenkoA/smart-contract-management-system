@@ -1,12 +1,1 @@
-{ 
-  "name": "smart-contract-management-system", 
-  "version": "1.0.0", 
-  "description": "Программная система для управления смарт-контрактами цифровых активов", 
-  "main": "index.js", 
-  "scripts": { 
-    "start": "node index.js", 
-    "dev": "nodemon index.js" 
-  }, 
-  "author": "Lukyanenko A.", 
-  "license": "MIT" 
-} 
+{"name":"smart-contract-management-system","version":"1.0.0","description":"я┐╜рограмя┐╜я┐╜я┐╜я┐╜ я┐╜я┐╜темя┐╜ я┐╜я┐╜я┐╜ я┐╜равя┐╜я┐╜я┐╜я┐╜я┐╜ смая┐╜я┐╜-я┐╜я┐╜я┐╜я┐╜рактамя┐╜ я┐╜я┐╜ровя┐╜я┐╜ я┐╜я┐╜тивя┐╜я┐╜","main":"index.js","scripts":{"start":"node index.js","dev":"nodemon index.js"},"author":"Lukyanenko A.","license":"MIT","dependencies":{"@types/react":"^19.2.14","@types/react-dom":"^19.2.3"}}
