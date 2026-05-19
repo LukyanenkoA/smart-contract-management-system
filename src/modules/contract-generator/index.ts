@@ -61,4 +61,5 @@ contract MyToken {
     this.generatedCode = code;
     return code;
   }
-}
+}// ERC-721 support added 
+// New function: generateERC721 
