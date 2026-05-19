@@ -61,4 +61,4 @@ contract MyToken {
     this.generatedCode = code;
     return code;
   }
-}
+}// Fix version - conflict line 
