@@ -44,4 +44,4 @@ export class Registry {
   handleError(error: any): void {
     this.logEvent('error', { message: error.message || 'Unknown error' });
   }
-}// Version from main 
+}// Version from conflict-branch 
